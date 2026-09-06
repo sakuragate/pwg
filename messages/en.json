@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "title": "PLAYWAN Gaming | Japanese IP, Game Production, Japan Marketing",
+    "description": "PLAYWAN Gaming is a Japan Market Activation Company that helps overseas game companies enter Japan. We connect Japanese IP collaboration, game and Spine creative production, and OOH, transit, event, and PR in one place.",
+    "ogTitle": "PLAYWAN Gaming",
+    "ogDescription": "BRING YOUR GAME TO JAPAN. IP × GAME × CREATIVE × MARKETING"
+  },
+  "nav": {
+    "about": "ABOUT",
+    "services": "WHAT WE DO",
+    "strength": "OUR STRENGTH",
+    "cases": "CASE STUDY",
+    "marketing": "JAPAN MARKETING",
+    "partners": "PARTNERS",
+    "company": "COMPANY PROFILE",
+    "contact": "CONTACT",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "common": {
+    "viewMore": "VIEW MORE",
+    "viewAll": "VIEW ALL CASES",
+    "viewDetails": "VIEW DETAILS",
+    "contactUs": "CONTACT US",
+    "comingSoon": "COMING SOON",
+    "comingSoonBody": "Details will be published soon.",
+    "formula": "IP × GAME × CREATIVE × MARKETING",
+    "tagline": "BRING YOUR GAME TO JAPAN.",
+    "positioning": "Japan Market Activation Agency",
+    "oneStop": "ONE CONTRACT. ONE CONTACT. ALL JAPAN."
+  },
+  "hero": {
+    "line1": "BRING YOUR",
+    "line2": "GAME TO",
+    "line3": "JAPAN.",
+    "headline": "Make games stronger<br></br>with Japanese IP and marketing.",
+    "lead": "PLAYWAN Gaming is a Japan Market Activation Company supporting overseas game companies in Japan.",
+    "body": "From Japanese IP collaboration to game and promotion creative, advertising, events, and PR. We connect everything Japan requires.",
+    "tokyoTaipei": "TOKYO / TAIPEI",
+    "activation": "JAPAN MARKET ACTIVATION",
+    "nodesLeft": {
+      "taiwan": "TAIWAN",
+      "china": "CHINA",
+      "asia": "ASIA"
+    },
+    "nodesRight": {
+      "ip": "IP",
+      "creative": "CREATIVE",
+      "marketing": "MARKETING",
+      "media": "MEDIA",
+      "event": "EVENT"
+    },
+    "japanMarket": "JAPAN MARKET"
+  },
+  "connect": {
+    "kicker": "WE CONNECT GREAT GAMES WITH JAPAN.",
+    "flow": "ASIA  →  PLAYWAN  →  JAPAN"
+  },
+  "whatWeDo": {
+    "label": "WHAT WE DO",
+    "headline": "Everything Japan needs,<br></br>in one stop.",
+    "lead": "PLAYWAN Gaming supports overseas game companies in Japan across three connected domains.",
+    "ip": {
+      "title": "IP COLLABORATION",
+      "subtitle": "Collaboration with Japanese IP",
+      "body": "We use our network of Japanese publishers, games, anime, and character holders. From selection to negotiation, contracts, and supervision, we coordinate the right IP for the title, audience, budget, and territory.",
+      "items": {
+        "select": "IP selection and planning",
+        "negotiate": "Negotiation with IP holders",
+        "license": "Licensing support",
+        "supervise": "Supervision coordination",
+        "implement": "In-game implementation support",
+        "promo": "Promotion usage clearance"
+      }
+    },
+    "creative": {
+      "title": "CREATIVE PRODUCTION",
+      "subtitle": "From game assets to advertising, produced as one.",
+      "body": "A license alone does not complete a collaboration. PLAYWAN produces the creative needed to implement IP in the game, then extends that same quality into Japan-facing promotion assets.",
+      "items": {
+        "graphic": "Game graphics",
+        "character": "Character assets",
+        "ui": "UI / UX",
+        "spine": "Spine Animation",
+        "pv": "PV / Movie",
+        "web": "Web / LP",
+        "banner": "Banners and ad creatives",
+        "ooh": "OOH creative"
+      }
+    },
+    "marketing": {
+      "title": "JAPAN MARKETING",
+      "subtitle": "Create conversation in Japan.",
+      "body": "Asian game companies are strong in online marketing. Japan’s offline market still needs local media selection, contracts, review, production, and installation. PLAYWAN becomes the Japan desk and coordinates agencies, media owners, event teams, and PR partners.",
+      "items": {
+        "transit": "Transit advertising",
+        "ooh": "OOH / DOOH",
+        "vision": "Large-format vision",
+        "station": "Station advertising",
+        "event": "Events",
+        "popup": "Pop-ups",
+        "pr": "PR",
+        "influencer": "Influencers",
+        "store": "Retail collaborations",
+        "movie": "Film and entertainment tie-ins"
+      }
+    }
+  },
+  "strength": {
+    "label": "OUR STRENGTH",
+    "headline": "IP × GAME ×<br></br>CREATIVE × MARKETING",
+    "lead": "A licensing company supplies IP. A studio builds the game. An agency runs ads. PLAYWAN Gaming connects all of it.",
+    "ip": {
+      "title": "IP NETWORK",
+      "body": "A Japanese IP network across publishing, anime, games, and characters."
+    },
+    "game": {
+      "title": "GAME KNOWLEDGE",
+      "body": "Game-business knowledge in both Japan and Taiwan, including live ops and implementation."
+    },
+    "creative": {
+      "title": "CREATIVE QUALITY",
+      "body": "Production quality from in-game implementation to advertising."
+    },
+    "marketing": {
+      "title": "MARKETING EXPERTISE",
+      "body": "Japan-specific promotion, including coordination with Japanese partners."
+    }
+  },
+  "cases": {
+    "label": "CASE STUDY",
+    "headline": "Connecting Japan and Asia<br></br>to make ideas real.",
+    "lead": "From IP collaboration to implementation and promotion. Selected PLAYWAN Gaming projects.",
+    "genericCollab": "ASIA GAME × JAPANESE IP",
+    "comingSoon": "COMING SOON",
+    "placeholderTitle": "PROJECT",
+    "placeholderBody": "To be published after clearance.",
+    "statusComing": "COMING SOON",
+    "meta": {
+      "client": "CLIENT",
+      "title": "TITLE",
+      "ip": "IP",
+      "market": "MARKET",
+      "role": "ROLE",
+      "status": "STATUS"
+    }
+  },
+  "cta": {
+    "headline": "LET'S CREATE<br></br>THE NEXT HIT.",
+    "line1": "LET'S CREATE",
+    "line2": "THE NEXT HIT.",
+    "body": "Talk to us about your next launch in Japan."
+  },
+  "footer": {
+    "tagline": "BRING YOUR GAME TO JAPAN.",
+    "company": "Company Profile",
+    "privacy": "Privacy Policy",
+    "copyright": "© PLAYWAN Gaming"
+  },
+  "about": {
+    "title": "ABOUT",
+    "display": "ABOUT<br></br>PLAYWAN<br></br>GAMING",
+    "headline": "A bridge for game business<br></br>between Japan and Asia.",
+    "p1": "PLAYWAN Gaming is a joint venture founded by game companies in Japan and Taiwan.",
+    "p2": "Our strength is not development or advertising alone. We connect overseas game companies with Japanese IP holders, creators, media, and partners to help titles succeed in Japan.",
+    "p3": "Games to Japan. Japanese IP to the world. We create new entertainment across borders.",
+    "founded": "FOUNDED",
+    "foundedValue": "JV COMPANY",
+    "foundedSub": "JAPAN × TAIWAN",
+    "foundedYear": "2019",
+    "network": "NETWORK",
+    "networkItems": "IP HOLDERS / MEDIA / PARTNERS / CREATORS",
+    "expertise": "EXPERTISE",
+    "expertiseItems": "GAME / IP BUSINESS / CREATIVE / MARKETING",
+    "mission": "MISSION",
+    "missionValue": "BRING YOUR GAME TO JAPAN.<br></br>CREATE NEW VALUE ACROSS ASIA.",
+    "taipei": "TAIPEI",
+    "tokyo": "TOKYO"
+  },
+  "servicesPage": {
+    "title": "WHAT WE DO",
+    "display": "WHAT<br></br>WE DO",
+    "headline": "Everything Japan needs,<br></br>in one stop.",
+    "lead": "From IP collaboration to implementation, creative production, and promotion. One team from planning through execution.",
+    "flowLabel": "PROJECT FLOW",
+    "flow": {
+      "consulting": { "title": "CONSULTING", "body": "Discovery and issue framing" },
+      "planning": { "title": "PLANNING", "body": "Concept and strategy" },
+      "license": { "title": "IP & LICENSE", "body": "Selection, negotiation, supervision" },
+      "production": { "title": "PRODUCTION", "body": "Creative and implementation" },
+      "marketing": { "title": "MARKETING", "body": "Promotion in market" },
+      "analysis": { "title": "ANALYSIS", "body": "Measurement and reporting" }
+    }
+  },
+  "strengthPage": {
+    "title": "OUR STRENGTH",
+    "display": "OUR<br></br>STRENGTH",
+    "headline": "The power to connect<br></br>widens what a game can do.",
+    "lead": "PLAYWAN Gaming designs IP, game, creative, and marketing as one project, and guides overseas titles into Japan.",
+    "ip": {
+      "title": "IP NETWORK",
+      "body": "We use Japanese IP networks across publishing, anime, games, and characters to select and negotiate the right fit."
+    },
+    "game": {
+      "title": "GAME KNOWLEDGE",
+      "body": "Because we understand development and live ops, we plan beyond simple license brokerage."
+    },
+    "creative": {
+      "title": "CREATIVE QUALITY",
+      "body": "We produce in-game graphics and Spine animation, plus PV, web, and advertising assets."
+    },
+    "marketing": {
+      "title": "MARKETING EXPERTISE",
+      "body": "We work with Japanese agencies, media owners, and event companies to design and run local promotion."
+    }
+  },
+  "casesPage": {
+    "title": "CASE STUDY",
+    "headline": "Connecting Japan and Asia<br></br>to make ideas real.",
+    "lead": "From IP collaboration to implementation and promotion. PLAYWAN Gaming projects."
+  },
+  "marketingPage": {
+    "title": "JAPAN MARKETING",
+    "display": "JAPAN<br></br>MARKETING",
+    "headline": "Create conversation in Japan.",
+    "lead": "Amplify online strength offline. We design and run Japan-specific marketing.",
+    "mapLabel": "CITY / AREA MAP",
+    "areas": {
+      "akihabara": "AKIHABARA",
+      "ikebukuro": "IKEBUKURO",
+      "shibuya": "SHIBUYA",
+      "shinjuku": "SHINJUKU",
+      "osaka": "OSAKA / NIPPONBASHI"
+    },
+    "mediaLabel": "MEDIA SOLUTION",
+    "media": {
+      "transit": "Transit ads",
+      "ooh": "OOH / DOOH",
+      "vision": "Large-format vision",
+      "station": "Station ads",
+      "event": "Events",
+      "popup": "Pop-ups",
+      "pr": "PR / Media",
+      "influencer": "Influencers",
+      "store": "Retail collabs",
+      "movie": "Film tie-ins"
+    },
+    "roleLabel": "ONLINE / OFFLINE ROLE",
+    "roleClient": "CLIENT",
+    "roleOnline": "ONLINE MARKETING",
+    "rolePlaywan": "IP / CREATIVE / OFFLINE",
+    "roleMarket": "JAPAN MARKET",
+    "roleNote": "Clients typically keep online media buying. PLAYWAN focuses on the Japan-specific work: IP, creative, and offline.",
+    "dataLabel": "DATA & RESULT",
+    "dataMessage": "Offline amplifies online results, then we keep optimizing.",
+    "metrics": {
+      "search": "Branded search",
+      "install": "Organic Install",
+      "store": "Store traffic",
+      "sns": "SNS Mention / Engagement",
+      "web": "Direct Web Traffic",
+      "cvr": "Online Ads CVR",
+      "dau": "DAU",
+      "download": "Download",
+      "revenue": "Spend / Revenue"
+    }
+  },
+  "partnersPage": {
+    "title": "PARTNERS",
+    "headline": "Partners who build value together.",
+    "lead": "PLAYWAN Gaming works with specialists in each field and assembles the right team for every project.",
+    "message": "We do not compete with agencies. We bring overseas game projects and form the right specialist team for each case.",
+    "left": {
+      "ipHolder": "IP holders",
+      "agency": "Advertising agencies",
+      "ooh": "OOH / transit companies",
+      "event": "Event companies",
+      "production": "Production studios"
+    },
+    "right": {
+      "developer": "Game developers",
+      "pr": "PR / media",
+      "influencer": "Influencers / SNS",
+      "talent": "Talent / entertainment",
+      "other": "Other partners"
+    }
+  },
+  "contact": {
+    "title": "CONTACT",
+    "headline": "LET'S TALK ABOUT<br></br>YOUR NEXT PROJECT.",
+    "lead": "Japanese IP collaboration, Japan-market promotion, game and creative production — start with a conversation.",
+    "company": "Company Name",
+    "name": "Name",
+    "email": "Email",
+    "country": "Country / Region",
+    "inquiryType": "Inquiry Type",
+    "message": "Message",
+    "url": "Game / Service URL",
+    "budget": "Budget Range",
+    "launch": "Target Launch Date",
+    "optional": "Optional",
+    "required": "Required",
+    "submit": "SEND MESSAGE",
+    "sending": "SENDING…",
+    "success": "Thank you. We will get back to you shortly.",
+    "error": "Something went wrong. Please try again later.",
+    "missingConfig": "The form endpoint is not configured.",
+    "types": {
+      "ip": "IP Collaboration",
+      "creative": "Creative Production",
+      "marketing": "Japan Marketing",
+      "partnership": "Partnership",
+      "other": "Other"
+    }
+  },
+  "companyPage": {
+    "title": "Company Profile",
+    "label": "COMPANY PROFILE",
+    "headline": "Company Profile",
+    "subhead": "会社概要",
+    "fields": {
+      "name": "Company",
+      "founded": "Founded",
+      "capital": "Capital",
+      "address": "Headquarters",
+      "officers": "Officers",
+      "shareholders": "Shareholders",
+      "clients": "Major Clients"
+    },
+    "roles": {
+      "ceo": "Representative Director",
+      "director": "Director"
+    },
+    "capitalValue": "JPY 200,000,000"
+  },
+  "privacy": {
+    "title": "PRIVACY POLICY",
+    "headline": "Privacy Policy",
+    "updated": "Last updated: April 1, 2026",
+    "intro": "PlayWan Gaming Inc. (“we”) handles personal information obtained through inquiries and other business activities as follows.",
+    "s1": "1. Information we collect",
+    "s1b": "Through our contact form we may collect company name, name, email address, country or region, inquiry details, and optional URL, budget, and timing.",
+    "s2": "2. Purpose of use",
+    "s2b": "We use this information to respond to inquiries, review requests, communicate as needed, improve our services, and comply with law.",
+    "s3": "3. Disclosure to third parties",
+    "s3b": "We do not provide personal information to third parties without consent except as required by law. Form submissions may be processed by Formspree.",
+    "s4": "4. Security",
+    "s4b": "We take appropriate measures to prevent leakage, loss, or damage of personal information.",
+    "s5": "5. Requests",
+    "s5b": "To request disclosure, correction, or suspension of use, contact us via the inquiry form.",
+    "s6": "6. Changes",
+    "s6b": "We may update this policy. The revised version takes effect when posted on this page."
+  }
+}

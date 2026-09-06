@@ -1,0 +1,365 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #0a0a0a;
+  --color-muted: #777777;
+  --color-line: #e6e6e6;
+  --color-brand: #70a860;
+  --color-brand-bright: #8bc47a;
+  --color-ink: #0a0a0a;
+  --header-h: 72px;
+}
+
+@theme inline {
+  --color-bg: var(--color-bg);
+  --color-text: var(--color-text);
+  --color-muted: var(--color-muted);
+  --color-line: var(--color-line);
+  --color-brand: var(--color-brand);
+  --color-brand-bright: var(--color-brand-bright);
+  --color-ink: var(--color-ink);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+}
+
+* {
+  border-radius: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body), "Noto Sans JP", "Hiragino Sans", sans-serif;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+}
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: var(--font-display), "Inter Tight", "Helvetica Neue", sans-serif;
+    letter-spacing: -0.03em;
+    line-height: 1.25;
+  }
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 3px;
+}
+
+.site-grid {
+  width: min(1440px, calc(100% - 40px));
+  margin-inline: auto;
+}
+
+@media (min-width: 768px) {
+  .site-grid {
+    width: min(1440px, calc(100% - 80px));
+  }
+}
+
+.hairline {
+  border-color: var(--color-line);
+}
+
+.draw-line {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: draw 1.2s ease forwards;
+}
+
+.network-diagram .network-ring {
+  transform-box: view-box;
+  transform-origin: 200px 200px;
+  stroke-dasharray: 4 10;
+}
+
+.network-diagram .network-ring-outer {
+  animation: network-spin 48s linear infinite;
+}
+
+.network-diagram .network-ring-inner {
+  animation: network-spin-reverse 72s linear infinite;
+}
+
+.network-diagram .network-spoke {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: draw 1.1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.network-diagram .network-node {
+  transform-box: view-box;
+  transform-origin: center;
+  opacity: 0;
+  animation:
+    network-node-in 0.45s ease forwards,
+    network-node-pulse 2.4s ease-in-out 0.9s infinite;
+}
+
+.network-diagram .network-hub {
+  transform-box: view-box;
+  transform-origin: 200px 200px;
+  opacity: 0;
+  animation: network-hub-in 0.7s ease 0.15s forwards;
+}
+
+.network-diagram .network-pulse {
+  transform-box: view-box;
+  transform-origin: 200px 200px;
+  animation: network-ripple 3.8s ease-out infinite;
+}
+
+.network-diagram .network-pulse-delay {
+  animation-delay: 1.9s;
+}
+
+.network-diagram-strong .network-pulse {
+  stroke: #8bc47a;
+  stroke-width: 3.2;
+  animation: network-ripple-strong 2.8s ease-out infinite;
+}
+
+.network-diagram-strong .network-pulse-delay {
+  animation-delay: 0.95s;
+}
+
+.network-diagram-strong .network-pulse-third {
+  animation-delay: 1.9s;
+}
+
+.network-diagram-strong .network-pulse-fill {
+  transform-box: view-box;
+  transform-origin: 200px 200px;
+  fill: #70a860;
+  animation: network-ripple-fill 2.8s ease-out infinite;
+}
+
+.network-diagram .network-logo {
+  opacity: 0;
+  animation: network-hub-in 0.7s ease 0.35s forwards;
+}
+
+.network-diagram .network-label {
+  opacity: 0;
+  animation: fade-up 0.55s ease forwards;
+}
+
+.network-diagram .network-sat {
+  opacity: 0;
+  animation: network-node-in 0.5s ease forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .draw-line,
+  .reveal,
+  .reveal-rule,
+  .connect-draw .connect-flow,
+  .connect-draw-line,
+  .reveal-stack-inner,
+  .connect-flow span,
+  .network-diagram .network-ring,
+  .network-diagram .network-spoke,
+  .network-diagram .network-node,
+  .network-diagram .network-hub,
+  .network-diagram .network-pulse,
+  .network-diagram .network-pulse-fill,
+  .network-diagram .network-logo,
+  .network-diagram .network-label,
+  .network-diagram .network-sat {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+    stroke-dashoffset: 0 !important;
+    clip-path: none !important;
+  }
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes network-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes network-spin-reverse {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+@keyframes network-node-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes network-node-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+
+@keyframes network-hub-in {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes network-ripple {
+  0% {
+    transform: scale(0.28);
+    opacity: 0.35;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+@keyframes network-ripple-strong {
+  0% {
+    transform: scale(0.28);
+    opacity: 0.95;
+  }
+  70% {
+    opacity: 0.35;
+  }
+  100% {
+    transform: scale(1.08);
+    opacity: 0;
+  }
+}
+
+@keyframes network-ripple-fill {
+  0% {
+    transform: scale(0.28);
+    opacity: 0.32;
+  }
+  100% {
+    transform: scale(1.08);
+    opacity: 0;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.reveal {
+  animation: fade-up 0.7s ease both;
+}
+
+.reveal-rule {
+  transform: scaleX(0);
+  transform-origin: left center;
+}
+
+.reveal-rule[data-inview="true"] {
+  animation: reveal-rule 0.9s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@keyframes reveal-rule {
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.connect-draw .connect-flow {
+  clip-path: inset(0 100% 0 0);
+}
+
+.connect-draw[data-inview="true"] .connect-flow {
+  animation: connect-draw 1.15s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.connect-draw-line {
+  transform: scaleX(0);
+  transform-origin: left center;
+}
+
+.connect-draw[data-inview="true"] .connect-draw-line {
+  animation: reveal-rule 1.15s cubic-bezier(0.22, 1, 0.36, 1) 0.12s forwards;
+}
+
+@keyframes connect-draw {
+  to {
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+.reveal-stack-line {
+  display: block;
+  overflow: hidden;
+}
+
+.reveal-stack-inner {
+  display: block;
+  opacity: 0;
+  transform: translateY(12px);
+}
+
+[data-inview="true"] .reveal-stack-inner {
+  animation: fade-up-line 0.7s ease forwards;
+}
+
+@keyframes fade-up-line {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-node {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.55;
+  }
+}

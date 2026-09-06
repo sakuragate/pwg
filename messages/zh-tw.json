@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "title": "PLAYWAN Gaming | 日本IP、遊戲製作、Japan Marketing",
+    "description": "PLAYWAN Gaming 是協助海外遊戲企業進入日本市場的 Japan Market Activation Company。我們把日本IP合作、遊戲與 Spine 等創意製作，以及 OOH、交通廣告、活動與公關，一次串連起來。",
+    "ogTitle": "PLAYWAN Gaming",
+    "ogDescription": "BRING YOUR GAME TO JAPAN. IP × GAME × CREATIVE × MARKETING"
+  },
+  "nav": {
+    "about": "ABOUT",
+    "services": "WHAT WE DO",
+    "strength": "OUR STRENGTH",
+    "cases": "CASE STUDY",
+    "marketing": "JAPAN MARKETING",
+    "partners": "PARTNERS",
+    "company": "COMPANY PROFILE",
+    "contact": "CONTACT",
+    "openMenu": "開啟選單",
+    "closeMenu": "關閉選單"
+  },
+  "common": {
+    "viewMore": "VIEW MORE",
+    "viewAll": "VIEW ALL CASES",
+    "viewDetails": "VIEW DETAILS",
+    "contactUs": "CONTACT US",
+    "comingSoon": "COMING SOON",
+    "comingSoonBody": "詳情即將公布。",
+    "formula": "IP × GAME × CREATIVE × MARKETING",
+    "tagline": "BRING YOUR GAME TO JAPAN.",
+    "positioning": "Japan Market Activation Agency",
+    "oneStop": "ONE CONTRACT. ONE CONTACT. ALL JAPAN."
+  },
+  "hero": {
+    "line1": "BRING YOUR",
+    "line2": "GAME TO",
+    "line3": "JAPAN.",
+    "headline": "用日本IP與行銷，<br></br>讓遊戲更強。",
+    "lead": "PLAYWAN Gaming 是支援海外遊戲企業拓展日本市場的 Japan Market Activation Company。",
+    "body": "從日本IP合作，到遊戲與宣傳素材製作，再到廣告、活動與公關。把日本市場需要的一切串在一起。",
+    "tokyoTaipei": "TOKYO / TAIPEI",
+    "activation": "JAPAN MARKET ACTIVATION",
+    "nodesLeft": {
+      "taiwan": "TAIWAN",
+      "china": "CHINA",
+      "asia": "ASIA"
+    },
+    "nodesRight": {
+      "ip": "IP",
+      "creative": "CREATIVE",
+      "marketing": "MARKETING",
+      "media": "MEDIA",
+      "event": "EVENT"
+    },
+    "japanMarket": "JAPAN MARKET"
+  },
+  "connect": {
+    "kicker": "WE CONNECT GREAT GAMES WITH JAPAN.",
+    "flow": "ASIA  →  PLAYWAN  →  JAPAN"
+  },
+  "whatWeDo": {
+    "label": "WHAT WE DO",
+    "headline": "日本市場所需的一切，<br></br>一次到位。",
+    "lead": "PLAYWAN Gaming 從三大領域，支援海外遊戲企業落地日本。",
+    "ip": {
+      "title": "IP COLLABORATION",
+      "subtitle": "與日本IP合作",
+      "body": "我們運用出版社、遊戲、動畫、角色等日本IP權利方網絡，結合遊戲適配度、目標玩家、預算與發行區域，從甄選、談判、合約到監修全程協調。",
+      "items": {
+        "select": "IP甄選與企劃",
+        "negotiate": "與權利方談判",
+        "license": "授權合約支援",
+        "supervise": "監修協調",
+        "implement": "遊戲落地支援",
+        "promo": "宣傳使用協調"
+      }
+    },
+    "creative": {
+      "title": "CREATIVE PRODUCTION",
+      "subtitle": "從遊戲到廣告，一體製作。",
+      "body": "取得授權並不代表合作完成。PLAYWAN 憑藉對研發與營運的理解，把IP真正做進遊戲，並同步產出日本市場所需的宣傳創意。",
+      "items": {
+        "graphic": "遊戲原畫",
+        "character": "角色素材",
+        "ui": "UI / UX",
+        "spine": "Spine Animation",
+        "pv": "PV / Movie",
+        "web": "Web / LP",
+        "banner": "Banner與廣告素材",
+        "ooh": "OOH創意"
+      }
+    },
+    "marketing": {
+      "title": "JAPAN MARKETING",
+      "subtitle": "在日本製造話題。",
+      "body": "亞洲遊戲企業擅長線上行銷。日本線下則需要媒體選擇、合約、審核、製作與施工等在地經驗。PLAYWAN 作為日方窗口，協調廣告代理、媒體、活動與公關夥伴。",
+      "items": {
+        "transit": "交通廣告",
+        "ooh": "OOH / DOOH",
+        "vision": "大型視覺",
+        "station": "車站廣告",
+        "event": "活動",
+        "popup": "快閃",
+        "pr": "公關",
+        "influencer": "網紅",
+        "store": "通路聯名",
+        "movie": "電影與娛樂聯動"
+      }
+    }
+  },
+  "strength": {
+    "label": "OUR STRENGTH",
+    "headline": "IP × GAME ×<br></br>CREATIVE × MARKETING",
+    "lead": "授權公司提供IP。製作公司做遊戲。代理公司投放廣告。PLAYWAN Gaming 把這一切連成一條線。",
+    "ip": {
+      "title": "IP NETWORK",
+      "body": "日本IP網絡，涵蓋出版、動畫、遊戲與角色。"
+    },
+    "game": {
+      "title": "GAME KNOWLEDGE",
+      "body": "兼具日本與台灣的遊戲商務理解，能做到營運與落地層面的企劃。"
+    },
+    "creative": {
+      "title": "CREATIVE QUALITY",
+      "body": "從遊戲落地到廣告投放的製作力。"
+    },
+    "marketing": {
+      "title": "MARKETING EXPERTISE",
+      "body": "針對日本市場的推廣，並一站協調日本企業。"
+    }
+  },
+  "cases": {
+    "label": "CASE STUDY",
+    "headline": "連結日本與亞洲，<br></br>把想法做成現實。",
+    "lead": "從IP合作到遊戲落地與推廣。介紹 PLAYWAN Gaming 的專案。",
+    "genericCollab": "ASIA GAME × JAPANESE IP",
+    "comingSoon": "COMING SOON",
+    "placeholderTitle": "PROJECT",
+    "placeholderBody": "取得公開授權後刊登。",
+    "statusComing": "COMING SOON",
+    "meta": {
+      "client": "CLIENT",
+      "title": "TITLE",
+      "ip": "IP",
+      "market": "MARKET",
+      "role": "ROLE",
+      "status": "STATUS"
+    }
+  },
+  "cta": {
+    "headline": "LET'S CREATE<br></br>THE NEXT HIT.",
+    "line1": "LET'S CREATE",
+    "line2": "THE NEXT HIT.",
+    "body": "關於日本市場落地，歡迎先從諮詢開始。"
+  },
+  "footer": {
+    "tagline": "BRING YOUR GAME TO JAPAN.",
+    "company": "公司簡介",
+    "privacy": "Privacy Policy",
+    "copyright": "© PLAYWAN Gaming"
+  },
+  "about": {
+    "title": "ABOUT",
+    "display": "ABOUT<br></br>PLAYWAN<br></br>GAMING",
+    "headline": "連結日本與亞洲的<br></br>遊戲商務橋樑。",
+    "p1": "PLAYWAN Gaming 是由日本與台灣遊戲企業共同設立的合資公司。",
+    "p2": "我們的優勢不只是開發或廣告。我們連結海外遊戲企業與日本的IP權利方、創作者、媒體和合作夥伴，協助專案在日本成功。",
+    "p3": "把遊戲帶到日本。把日本IP帶到世界。跨越國界，創造新的娛樂。",
+    "founded": "FOUNDED",
+    "foundedValue": "JV COMPANY",
+    "foundedSub": "JAPAN × TAIWAN",
+    "foundedYear": "2019",
+    "network": "NETWORK",
+    "networkItems": "IP HOLDERS / MEDIA / PARTNERS / CREATORS",
+    "expertise": "EXPERTISE",
+    "expertiseItems": "GAME / IP BUSINESS / CREATIVE / MARKETING",
+    "mission": "MISSION",
+    "missionValue": "BRING YOUR GAME TO JAPAN.<br></br>CREATE NEW VALUE ACROSS ASIA.",
+    "taipei": "TAIPEI",
+    "tokyo": "TOKYO"
+  },
+  "servicesPage": {
+    "title": "WHAT WE DO",
+    "display": "WHAT<br></br>WE DO",
+    "headline": "日本市場所需的一切，<br></br>一次到位。",
+    "lead": "從IP合作到遊戲落地、創意製作與推廣。從企劃到執行，全程支援。",
+    "flowLabel": "PROJECT FLOW",
+    "flow": {
+      "consulting": { "title": "CONSULTING", "body": "溝通與課題整理" },
+      "planning": { "title": "PLANNING", "body": "企劃與策略設計" },
+      "license": { "title": "IP & LICENSE", "body": "甄選、談判、監修" },
+      "production": { "title": "PRODUCTION", "body": "製作與落地" },
+      "marketing": { "title": "MARKETING", "body": "市場推廣執行" },
+      "analysis": { "title": "ANALYSIS", "body": "效果分析與報告" }
+    }
+  },
+  "strengthPage": {
+    "title": "OUR STRENGTH",
+    "display": "OUR<br></br>STRENGTH",
+    "headline": "連結的力量，<br></br>放大遊戲的可能。",
+    "lead": "PLAYWAN Gaming 把IP、遊戲、創意與行銷設計成同一個專案，協助海外遊戲進入日本。",
+    "ip": {
+      "title": "IP NETWORK",
+      "body": "運用出版、動畫、遊戲、角色等日本IP網絡，進行媒合甄選與談判。"
+    },
+    "game": {
+      "title": "GAME KNOWLEDGE",
+      "body": "因為理解研發與營運，我們能做的不只是授權仲介，而是落到實現與營運的企劃。"
+    },
+    "creative": {
+      "title": "CREATIVE QUALITY",
+      "body": "從遊戲原畫、Spine Animation，到 PV、網頁與廣告素材，均可製作。"
+    },
+    "marketing": {
+      "title": "MARKETING EXPERTISE",
+      "body": "與日本廣告代理、媒體與活動公司協作，設計並執行適合日本市場的推廣。"
+    }
+  },
+  "casesPage": {
+    "title": "CASE STUDY",
+    "headline": "連結日本與亞洲，<br></br>把想法做成現實。",
+    "lead": "從IP合作到遊戲落地與推廣。介紹 PLAYWAN Gaming 的專案。"
+  },
+  "marketingPage": {
+    "title": "JAPAN MARKETING",
+    "display": "JAPAN<br></br>MARKETING",
+    "headline": "在日本製造話題。",
+    "lead": "用線下放大線上的力量。我們設計並執行針對日本市場的行銷。",
+    "mapLabel": "CITY / AREA MAP",
+    "areas": {
+      "akihabara": "AKIHABARA",
+      "ikebukuro": "IKEBUKURO",
+      "shibuya": "SHIBUYA",
+      "shinjuku": "SHINJUKU",
+      "osaka": "OSAKA / NIPPONBASHI"
+    },
+    "mediaLabel": "MEDIA SOLUTION",
+    "media": {
+      "transit": "交通廣告",
+      "ooh": "OOH / DOOH",
+      "vision": "大型視覺",
+      "station": "車站廣告",
+      "event": "活動",
+      "popup": "快閃",
+      "pr": "公關 / 媒體",
+      "influencer": "網紅",
+      "store": "通路聯名",
+      "movie": "電影聯名"
+    },
+    "roleLabel": "ONLINE / OFFLINE ROLE",
+    "roleClient": "CLIENT",
+    "roleOnline": "ONLINE MARKETING",
+    "rolePlaywan": "IP / CREATIVE / OFFLINE",
+    "roleMarket": "JAPAN MARKET",
+    "roleNote": "線上投放原則上由客戶負責。PLAYWAN 負責在日本更需要專業能力的 IP、Creative 與 Offline。",
+    "dataLabel": "DATA & RESULT",
+    "dataMessage": "用線下放大線上成果，並持續優化。",
+    "metrics": {
+      "search": "品牌搜尋",
+      "install": "Organic Install",
+      "store": "商店流量",
+      "sns": "SNS Mention / Engagement",
+      "web": "Direct Web Traffic",
+      "cvr": "Online Ads CVR",
+      "dau": "DAU",
+      "download": "Download",
+      "revenue": "儲值 / 營收"
+    }
+  },
+  "partnersPage": {
+    "title": "PARTNERS",
+    "headline": "一起創造價值的夥伴。",
+    "lead": "PLAYWAN Gaming 與各領域專業公司協作，為每個專案組成最適合的團隊。",
+    "message": "我們不與廣告代理競爭，而是帶入海外遊戲專案，並依案件組成最適合的專業團隊。",
+    "left": {
+      "ipHolder": "IP權利方",
+      "agency": "廣告代理",
+      "ooh": "OOH / 交通廣告公司",
+      "event": "活動公司",
+      "production": "製作公司"
+    },
+    "right": {
+      "developer": "遊戲研發",
+      "pr": "公關 / 媒體",
+      "influencer": "網紅 / SNS",
+      "talent": "藝人 / 經紀",
+      "other": "其他夥伴"
+    }
+  },
+  "contact": {
+    "title": "CONTACT",
+    "headline": "LET'S TALK ABOUT<br></br>YOUR NEXT PROJECT.",
+    "lead": "日本IP合作、日本市場推廣、遊戲與創意製作，歡迎隨時諮詢。",
+    "company": "Company Name",
+    "name": "Name",
+    "email": "Email",
+    "country": "Country / Region",
+    "inquiryType": "Inquiry Type",
+    "message": "Message",
+    "url": "Game / Service URL",
+    "budget": "Budget Range",
+    "launch": "Target Launch Date",
+    "optional": "選填",
+    "required": "必填",
+    "submit": "SEND MESSAGE",
+    "sending": "SENDING…",
+    "success": "感謝提交，我們會盡快與您聯繫。",
+    "error": "發送失敗，請稍後再試。",
+    "missingConfig": "表單發送地址尚未設定。",
+    "types": {
+      "ip": "IP Collaboration",
+      "creative": "Creative Production",
+      "marketing": "Japan Marketing",
+      "partnership": "Partnership",
+      "other": "Other"
+    }
+  },
+  "companyPage": {
+    "title": "公司簡介",
+    "label": "COMPANY PROFILE",
+    "headline": "公司簡介",
+    "subhead": "Company Profile",
+    "fields": {
+      "name": "公司名稱",
+      "founded": "設立",
+      "capital": "資本額",
+      "address": "總部",
+      "officers": "董事",
+      "shareholders": "股東",
+      "clients": "主要往來客戶"
+    },
+    "roles": {
+      "ceo": "代表取締役",
+      "director": "取締役"
+    },
+    "capitalValue": "200,000,000日圓"
+  },
+  "privacy": {
+    "title": "PRIVACY POLICY",
+    "headline": "隱私權政策",
+    "updated": "最後更新：2026年4月1日",
+    "intro": "株式會社プレイワンゲーミング（以下稱「本公司」）將依下列方式處理透過諮詢及其他業務活動取得的個人資料。",
+    "s1": "1. 蒐集的資訊",
+    "s1b": "透過諮詢表單，我們可能蒐集公司名、姓名、電子郵件、國家／地區、諮詢內容，以及選填的網址、預算與目標時間。",
+    "s2": "2. 利用目的",
+    "s2b": "用於回覆諮詢、評估合作、必要聯繫、改善服務，以及依法處理。",
+    "s3": "3. 提供予第三人",
+    "s3b": "除法令要求外，未經本人同意不會向第三人提供個人資料。表單送出可能使用 Formspree。",
+    "s4": "4. 安全管理",
+    "s4b": "本公司採取適當措施，防止個人資料外洩、滅失或毀損。",
+    "s5": "5. 查閱等請求",
+    "s5b": "如需查閱、更正或停止使用個人資料，請透過諮詢表單與我們聯繫。",
+    "s6": "6. 修訂",
+    "s6b": "本政策可能修訂。修訂後內容自本頁刊登時起生效。"
+  }
+}
