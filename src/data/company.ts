@@ -13,6 +13,7 @@ export const company = {
   clients: [
     "International Games System Co., LTD",
     "Wayi International Digital Entertainment Co., Ltd.",
+    "株式会社KADOKAWA",
     "株式会社講談社",
   ],
 } as const;

@@ -23,7 +23,7 @@ export function SectionHeading({
           </p>
         ) : null}
         <h2
-          className={`font-display text-[clamp(2rem,5vw,4.4rem)] leading-snug tracking-[-0.04em] ${
+          className={`font-display text-[clamp(1.75rem,4.2vw,3.5rem)] leading-snug tracking-[-0.04em] break-keep wrap-break-word ${
             invert ? "text-white" : "text-text"
           }`}
         >

@@ -27,9 +27,9 @@ export const localeMeta: Record<
   { label: string; htmlLang: string; ogLocale: string }
 > = {
   ja: { label: "JP", htmlLang: "ja", ogLocale: "ja_JP" },
+  "zh-cn": { label: "簡体", htmlLang: "zh-CN", ogLocale: "zh_CN" },
+  "zh-tw": { label: "繁体", htmlLang: "zh-TW", ogLocale: "zh_TW" },
   en: { label: "EN", htmlLang: "en", ogLocale: "en_US" },
-  "zh-cn": { label: "简", htmlLang: "zh-CN", ogLocale: "zh_CN" },
-  "zh-tw": { label: "繁", htmlLang: "zh-TW", ogLocale: "zh_TW" },
 };
 
 export const navItems = [

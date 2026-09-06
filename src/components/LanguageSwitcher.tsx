@@ -11,8 +11,8 @@ export function LanguageSwitcher({ compact = false }: { compact?: boolean }) {
 
   return (
     <div
-      className={`flex shrink-0 items-center font-display tracking-[0.18em] ${
-        compact ? "gap-1 text-[10px]" : "gap-2 text-[11px]"
+      className={`flex shrink-0 items-center whitespace-nowrap font-display tracking-[0.12em] ${
+        compact ? "gap-0.5 text-[10px]" : "gap-1.5 text-[11px]"
       }`}
       role="navigation"
       aria-label="Language"
@@ -24,7 +24,7 @@ export function LanguageSwitcher({ compact = false }: { compact?: boolean }) {
             href={pathname}
             locale={code}
             className={`inline-flex items-center justify-center ${
-              compact ? "min-h-11 min-w-7 px-0.5" : "min-h-11 min-w-8 px-1"
+              compact ? "min-h-11 px-0.5" : "min-h-11 px-1"
             } ${locale === code ? "text-text" : "text-muted hover:text-text"}`}
             aria-current={locale === code ? "page" : undefined}
           >
