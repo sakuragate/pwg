@@ -63,20 +63,20 @@
     "ip": {
       "title": "IP COLLABORATION",
       "subtitle": "與日本IP合作",
-      "body": "我們運用出版社、遊戲、動畫、角色等日本IP權利方網絡，結合遊戲適配度、目標玩家、預算與發行區域，從甄選、談判、合約到監修全程協調。",
+      "body": "活用與出版社、遊戲、動畫、角色等日本各領域 IP 版權方的合作網絡。基於與遊戲的契合度、目標客群、預算及發行地區等要素，提供從最適合的 IP 選定、授權談判、簽約到監修的一站式統籌服務。",
       "items": {
         "select": "IP甄選與企劃",
         "negotiate": "與權利方談判",
         "license": "授權合約支援",
         "supervise": "監修協調",
-        "implement": "遊戲落地支援",
+        "implement": "遊戲內實裝支援",
         "promo": "宣傳使用協調"
       }
     },
     "creative": {
       "title": "CREATIVE PRODUCTION",
-      "subtitle": "從遊戲到廣告，一體製作。",
-      "body": "取得授權並不代表合作完成。PLAYWAN 憑藉對研發與營運的理解，把IP真正做進遊戲，並同步產出日本市場所需的宣傳創意。",
+      "subtitle": "從遊戲到廣告，一體製作",
+      "body": "取得授權並不代表合作完成。我們憑藉對研發與營運的理解，把IP做進遊戲，並同步產出日本市場所需的宣傳創意。",
       "items": {
         "graphic": "遊戲原畫",
         "character": "角色素材",
@@ -90,8 +90,8 @@
     },
     "marketing": {
       "title": "JAPAN MARKETING",
-      "subtitle": "在日本製造話題。",
-      "body": "亞洲遊戲企業擅長線上行銷。日本線下則需要媒體選擇、合約、審核、製作與施工等在地經驗。PLAYWAN 作為日方窗口，協調廣告代理、媒體、活動與公關夥伴。",
+      "subtitle": "在日本製造話題",
+      "body": "日本線下推廣需要媒體選擇、合約、審核、製作與施工等在地經驗。PLAYWAN 作為日方窗口，協調廣告代理、媒體、活動與公關夥伴。",
       "items": {
         "transit": "交通廣告",
         "ooh": "OOH / DOOH",
@@ -130,7 +130,7 @@
   "cases": {
     "label": "CASE STUDY",
     "headline": "連結日本與亞洲，<br></br>把想法做成現實。",
-    "lead": "從IP合作到遊戲落地與推廣。介紹 PLAYWAN Gaming 的專案。",
+    "lead": "從IP合作到遊戲內實裝與宣傳推廣。介紹 PLAYWAN Gaming 的專案。",
     "genericCollab": "ASIA GAME × JAPANESE IP",
     "comingSoon": "COMING SOON",
     "placeholderTitle": "PROJECT",
@@ -181,13 +181,46 @@
     "title": "WHAT WE DO",
     "display": "WHAT<br></br>WE DO",
     "headline": "日本市場所需的一切，<br></br>一次到位。",
-    "lead": "從IP合作到遊戲落地、創意製作與推廣。從企劃到執行，全程支援。",
+    "lead": "從IP合作到遊戲內實裝與宣傳推廣。介紹 PLAYWAN Gaming 的專案。",
+    "packageLabel": "PACKAGE",
+    "packageColumns": {
+      "name": "Package",
+      "content": "內容",
+      "budget": "預估預算"
+    },
+    "packages": {
+      "mini": {
+        "name": "Japan Launch Mini",
+        "content": "秋葉原/池袋DOOH＋SNS",
+        "budget": "300萬～500萬日圓"
+      },
+      "launch": {
+        "name": "Japan Launch",
+        "content": "交通廣告＋OOH＋PR",
+        "budget": "1,000萬～3,000萬日圓"
+      },
+      "mega": {
+        "name": "Japan Mega Launch",
+        "content": "車站包場＋大型視覺＋活動",
+        "budget": "3,000萬日圓～1億日圓"
+      },
+      "ip": {
+        "name": "IP Collaboration",
+        "content": "日本IP合作＋廣告投放",
+        "budget": "2,000萬日圓起"
+      },
+      "event": {
+        "name": "Anniversary/Event",
+        "content": "週年・大型更新企劃",
+        "budget": "500萬～3,000萬日圓"
+      }
+    },
     "flowLabel": "PROJECT FLOW",
     "flow": {
       "consulting": { "title": "CONSULTING", "body": "溝通與課題整理" },
       "planning": { "title": "PLANNING", "body": "企劃與策略設計" },
       "license": { "title": "IP & LICENSE", "body": "甄選、談判、監修" },
-      "production": { "title": "PRODUCTION", "body": "製作與落地" },
+      "production": { "title": "PRODUCTION", "body": "製作與遊戲內實裝" },
       "marketing": { "title": "MARKETING", "body": "市場推廣執行" },
       "analysis": { "title": "ANALYSIS", "body": "效果分析與報告" }
     }
@@ -199,7 +232,7 @@
     "lead": "PLAYWAN Gaming 把IP、遊戲、創意與行銷設計成同一個專案，協助海外遊戲進入日本。",
     "ip": {
       "title": "IP NETWORK",
-      "body": "運用出版、動畫、遊戲、角色等日本IP網絡，進行媒合甄選與談判。"
+      "body": "活用與出版社、動畫、遊戲、角色等日本 IP 的合作網絡，針對項目需求進行最合適的 IP 篩選與授權談判。"
     },
     "game": {
       "title": "GAME KNOWLEDGE",
@@ -217,7 +250,7 @@
   "casesPage": {
     "title": "CASE STUDY",
     "headline": "連結日本與亞洲，<br></br>把想法做成現實。",
-    "lead": "從IP合作到遊戲落地與推廣。介紹 PLAYWAN Gaming 的專案。"
+    "lead": "從IP合作到遊戲內實裝與宣傳推廣。介紹 PLAYWAN Gaming 的專案。"
   },
   "marketingPage": {
     "title": "JAPAN MARKETING",

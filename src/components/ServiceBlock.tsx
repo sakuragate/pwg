@@ -35,7 +35,13 @@ export async function ServiceBlock({
   const common = await getTranslations("common");
 
   return (
-    <div className="grid gap-0 border-t border-line md:grid-cols-3">
+    <div
+      className={`grid gap-0 border-t border-line md:grid-cols-3 ${
+        detailed
+          ? "md:[grid-template-rows:auto_auto_auto_auto_1fr_auto_auto]"
+          : "md:[grid-template-rows:auto_auto_auto_auto_1fr_auto_auto_auto]"
+      }`}
+    >
       {services.map((service) => {
         const Icon = icons[service.icon];
         const keys = detailed
@@ -44,7 +50,9 @@ export async function ServiceBlock({
         return (
           <article
             key={service.id}
-            className="border-line py-10 md:border-r md:px-8 md:py-14 last:md:border-r-0"
+            className={`grid grid-cols-1 border-line py-10 md:grid-rows-subgrid md:border-r md:px-8 md:py-14 last:md:border-r-0 ${
+              detailed ? "md:row-span-7" : "md:row-span-8"
+            }`}
           >
             <p className="font-display text-[clamp(3rem,6vw,5rem)] leading-[0.95] text-brand/80">
               {service.no}
@@ -53,7 +61,7 @@ export async function ServiceBlock({
             <h3 className="mt-6 font-display text-xl leading-snug tracking-[-0.03em] md:text-2xl">
               {t(`${service.id}.title`)}
             </h3>
-            <p className="mt-3 text-sm font-medium">{t(`${service.id}.subtitle`)}</p>
+            <p className="mt-3 text-sm font-medium leading-6">{t(`${service.id}.subtitle`)}</p>
             <p className="mt-4 text-sm leading-7 text-muted">{t(`${service.id}.body`)}</p>
             <p className="mt-8 font-display text-[11px] tracking-[0.18em] text-muted">
               SERVICE
@@ -66,7 +74,7 @@ export async function ServiceBlock({
                 </li>
               ))}
             </ul>
-            {!detailed ? (
+            {detailed ? null : (
               <Link
                 href="/services"
                 className="mt-8 inline-flex min-h-11 items-center gap-3 font-display text-[11px] tracking-[0.16em]"
@@ -76,7 +84,7 @@ export async function ServiceBlock({
                   →
                 </span>
               </Link>
-            ) : null}
+            )}
           </article>
         );
       })}

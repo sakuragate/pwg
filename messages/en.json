@@ -63,7 +63,7 @@
     "ip": {
       "title": "IP COLLABORATION",
       "subtitle": "Collaboration with Japanese IP",
-      "body": "We use our network of Japanese publishers, games, anime, and character holders. From selection to negotiation, contracts, and supervision, we coordinate the right IP for the title, audience, budget, and territory.",
+      "body": "We work with Japanese publishers, games, anime, and character holders. From selection through negotiation, contracts, and supervision, we match the right IP to title, audience, budget, and territory.",
       "items": {
         "select": "IP selection and planning",
         "negotiate": "Negotiation with IP holders",
@@ -75,8 +75,8 @@
     },
     "creative": {
       "title": "CREATIVE PRODUCTION",
-      "subtitle": "From game assets to advertising, produced as one.",
-      "body": "A license alone does not complete a collaboration. PLAYWAN produces the creative needed to implement IP in the game, then extends that same quality into Japan-facing promotion assets.",
+      "subtitle": "From game assets to advertising, produced as one",
+      "body": "A license is not a finished collaboration. We produce in-game creative to implement the IP, then the Japan-facing promotion assets that follow.",
       "items": {
         "graphic": "Game graphics",
         "character": "Character assets",
@@ -90,8 +90,8 @@
     },
     "marketing": {
       "title": "JAPAN MARKETING",
-      "subtitle": "Create conversation in Japan.",
-      "body": "Asian game companies are strong in online marketing. Japan’s offline market still needs local media selection, contracts, review, production, and installation. PLAYWAN becomes the Japan desk and coordinates agencies, media owners, event teams, and PR partners.",
+      "subtitle": "Create conversation in Japan",
+      "body": "Japan’s offline market needs local media selection, contracts, review, production, and installation. PLAYWAN is the Japan desk, coordinating agencies, media, events, and PR partners.",
       "items": {
         "transit": "Transit advertising",
         "ooh": "OOH / DOOH",
@@ -182,6 +182,39 @@
     "display": "WHAT<br></br>WE DO",
     "headline": "Everything Japan needs,<br></br>in one stop.",
     "lead": "From IP collaboration to implementation, creative production, and promotion. One team from planning through execution.",
+    "packageLabel": "PACKAGE",
+    "packageColumns": {
+      "name": "Package",
+      "content": "Scope",
+      "budget": "Indicative budget"
+    },
+    "packages": {
+      "mini": {
+        "name": "Japan Launch Mini",
+        "content": "Akihabara / Ikebukuro DOOH + SNS",
+        "budget": "JPY 3–5 million"
+      },
+      "launch": {
+        "name": "Japan Launch",
+        "content": "Transit ads + OOH + PR",
+        "budget": "JPY 10–30 million"
+      },
+      "mega": {
+        "name": "Japan Mega Launch",
+        "content": "Station takeover + large vision + event",
+        "budget": "JPY 30 million–100 million"
+      },
+      "ip": {
+        "name": "IP Collaboration",
+        "content": "Japanese IP collab + advertising",
+        "budget": "From JPY 20 million"
+      },
+      "event": {
+        "name": "Anniversary/Event",
+        "content": "Anniversary / major update campaigns",
+        "budget": "JPY 5–30 million"
+      }
+    },
     "flowLabel": "PROJECT FLOW",
     "flow": {
       "consulting": { "title": "CONSULTING", "body": "Discovery and issue framing" },

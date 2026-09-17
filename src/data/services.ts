@@ -19,3 +19,11 @@ export const projectFlow = [
   "marketing",
   "analysis",
 ] as const;
+
+export const servicePackages = [
+  "mini",
+  "launch",
+  "mega",
+  "ip",
+  "event",
+] as const;

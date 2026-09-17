@@ -3,6 +3,7 @@ import type { Locale } from "@/i18n/routing";
 import { buildMetadata } from "@/lib/metadata";
 import { PageHero } from "@/components/PageHero";
 import { ServiceBlock } from "@/components/ServiceBlock";
+import { ServicePackages } from "@/components/ServicePackages";
 import { ProjectFlow } from "@/components/ProjectFlow";
 
 export async function generateMetadata({
@@ -32,6 +33,7 @@ export default async function ServicesPage({
         lead={t("lead")}
       />
       <ServiceBlock detailed />
+      <ServicePackages />
       <ProjectFlow />
     </div>
   );

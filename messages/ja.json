@@ -63,7 +63,7 @@
     "ip": {
       "title": "IP COLLABORATION",
       "subtitle": "日本IPとのコラボレーション",
-      "body": "出版社、ゲーム、アニメ、キャラクターなど、日本のさまざまなIPホルダーとのネットワークを活用。ゲームとの親和性やターゲット、予算、展開地域などを踏まえ、最適なIPの選定から交渉、契約、監修までコーディネートします。",
+      "body": "出版社、ゲーム、アニメ、キャラクターなど、日本のIPホルダーとのネットワークを活用します。親和性やターゲット、予算、展開地域を踏まえ、選定から交渉、契約、監修までコーディネートします。",
       "items": {
         "select": "IP選定・企画",
         "negotiate": "IPホルダーとの交渉",
@@ -75,8 +75,8 @@
     },
     "creative": {
       "title": "CREATIVE PRODUCTION",
-      "subtitle": "ゲームから広告まで、一貫して制作。",
-      "body": "IPを取得するだけでは、コラボレーションは完成しません。PLAYWAN Gamingでは、ゲーム開発・運営への知見を活かし、IPを実際のゲームへ実装するためのクリエイティブ制作まで対応します。さらにゲーム内素材だけでなく、日本でのプロモーションに必要となる広告クリエイティブも制作します。",
+      "subtitle": "ゲームから広告まで、一貫して制作",
+      "body": "ゲーム開発・運営の知見を活かし、IPをゲームへ実装するためのクリエイティブ制作に対応します。ゲーム内素材だけでなく、日本プロモーション向けの広告クリエイティブも制作します。",
       "items": {
         "graphic": "ゲームグラフィック",
         "character": "キャラクター素材",
@@ -90,8 +90,8 @@
     },
     "marketing": {
       "title": "JAPAN MARKETING",
-      "subtitle": "日本で、話題をつくる。",
-      "body": "中国・台湾をはじめとするアジアのゲーム企業は、オンラインマーケティングに豊富なノウハウを持っています。一方、日本のオフラインマーケティングには、媒体選定、契約、審査、制作、施工など独自のノウハウが必要です。PLAYWAN Gamingが日本側の窓口となり、広告代理店・媒体社・イベント会社・PR会社などをコーディネートします。",
+      "subtitle": "日本で、話題をつくる",
+      "body": "日本のオフライン施策には、媒体選定、契約、審査、制作、施工など現地のノウハウが必要です。PLAYWANが日本側の窓口となり、広告代理店・媒体社・イベント会社・PR会社をコーディネートします。",
       "items": {
         "transit": "交通広告",
         "ooh": "OOH / DOOH",
@@ -182,6 +182,39 @@
     "display": "WHAT<br></br>WE DO",
     "headline": "日本市場で必要なすべてを、<br></br>ワンストップで。",
     "lead": "IPコラボレーションから、ゲーム実装、クリエイティブ制作、プロモーションまで。企画から実行までを一貫してサポートします。",
+    "packageLabel": "PACKAGE",
+    "packageColumns": {
+      "name": "Package",
+      "content": "内容",
+      "budget": "想定予算"
+    },
+    "packages": {
+      "mini": {
+        "name": "Japan Launch Mini",
+        "content": "秋葉原/池袋DOOH＋SNS",
+        "budget": "300～500万円"
+      },
+      "launch": {
+        "name": "Japan Launch",
+        "content": "交通広告＋OOH＋PR",
+        "budget": "1,000～3,000万円"
+      },
+      "mega": {
+        "name": "Japan Mega Launch",
+        "content": "駅ジャック＋大型ビジョン＋イベント",
+        "budget": "3,000万円～1億円"
+      },
+      "ip": {
+        "name": "IP Collaboration",
+        "content": "日本IPコラボ＋広告展開",
+        "budget": "2,000万円～"
+      },
+      "event": {
+        "name": "Anniversary/Event",
+        "content": "周年・大型アップデート施策",
+        "budget": "500～3,000万円"
+      }
+    },
     "flowLabel": "PROJECT FLOW",
     "flow": {
       "consulting": { "title": "CONSULTING", "body": "ヒアリング・課題整理" },
