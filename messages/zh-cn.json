@@ -133,6 +133,16 @@
     "placeholderTitle": "PROJECT",
     "placeholderBody": "获准公开后发布。",
     "statusComing": "COMING SOON",
+    "items": {
+      "case02": {
+        "title": "新世纪福音战士",
+        "body": "与星城online联动"
+      },
+      "case03": {
+        "title": "鲁邦三世",
+        "body": "与星城online联动"
+      }
+    },
     "meta": {
       "client": "CLIENT",
       "title": "TITLE",

@@ -85,7 +85,7 @@ export default async function HomePage({
         />
         <div className="space-y-6">
           {publicCases[0] ? <CaseStudyCard item={publicCases[0]} featured /> : null}
-          <div className="grid gap-4 md:grid-cols-2">
+          <div className="grid items-start gap-4 md:grid-cols-2">
             {publicCases.slice(1).map((item) => (
               <CaseStudyCard key={item.slug} item={item} />
             ))}

@@ -133,6 +133,16 @@
     "placeholderTitle": "PROJECT",
     "placeholderBody": "取得公開授權後刊登。",
     "statusComing": "COMING SOON",
+    "items": {
+      "case02": {
+        "title": "新世紀福音戰士",
+        "body": "與星城online聯名"
+      },
+      "case03": {
+        "title": "魯邦三世",
+        "body": "與星城online聯名"
+      }
+    },
     "meta": {
       "client": "CLIENT",
       "title": "TITLE",

@@ -6,8 +6,12 @@ export interface CaseStudy {
   categoryKey: "genericCollab" | "comingSoon";
   status: CaseStatus;
   isPublic: boolean;
+  /** Translation key under cases.items.<contentKey> */
+  contentKey?: string;
   role?: Array<"ip" | "creative" | "marketing">;
   heroImage?: string;
+  /** External URL opened in a new tab from the card */
+  href?: string;
 }
 
 /**
@@ -25,16 +29,22 @@ export const publicCases: CaseStudy[] = [
   {
     slug: "case-02",
     caseNo: "02",
-    categoryKey: "comingSoon",
-    status: "coming-soon",
+    categoryKey: "genericCollab",
+    status: "published",
     isPublic: true,
+    contentKey: "case02",
+    heroImage: "/cases/case_02.png",
+    href: "https://www.facebook.com/watch/?v=187347782232977",
   },
   {
     slug: "case-03",
     caseNo: "03",
-    categoryKey: "comingSoon",
-    status: "coming-soon",
+    categoryKey: "genericCollab",
+    status: "published",
     isPublic: true,
+    contentKey: "case03",
+    heroImage: "/cases/case_03.png",
+    href: "https://www.wanin.tw/NewsPages/20210922162452938/",
   },
 ];
 

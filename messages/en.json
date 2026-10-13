@@ -133,6 +133,16 @@
     "placeholderTitle": "PROJECT",
     "placeholderBody": "To be published after clearance.",
     "statusComing": "COMING SOON",
+    "items": {
+      "case02": {
+        "title": "Evangelion",
+        "body": "Collaboration with Star City Online"
+      },
+      "case03": {
+        "title": "Lupin the Third",
+        "body": "Collaboration with Star City Online"
+      }
+    },
     "meta": {
       "client": "CLIENT",
       "title": "TITLE",

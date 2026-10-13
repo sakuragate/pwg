@@ -133,6 +133,16 @@
     "placeholderTitle": "PROJECT",
     "placeholderBody": "公開許諾後に掲載します。",
     "statusComing": "COMING SOON",
+    "items": {
+      "case02": {
+        "title": "エヴァンゲリオン",
+        "body": "星城onlineとコラボレーション"
+      },
+      "case03": {
+        "title": "ルパン三世",
+        "body": "星城onlineとコラボレーション"
+      }
+    },
     "meta": {
       "client": "CLIENT",
       "title": "TITLE",
