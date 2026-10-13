@@ -44,7 +44,7 @@ export async function CaseStudyCard({
         )}
       </div>
       {item.heroImage ? (
-        <div className="border-t border-line bg-ink md:border-t-0 md:border-l">
+        <div className="relative border-t border-line bg-ink md:border-t-0 md:border-l">
           <Image
             src={item.heroImage}
             alt={title}
@@ -58,6 +58,12 @@ export async function CaseStudyCard({
             }
             priority={featured}
           />
+          {item.heroTopFade ? (
+            <div
+              aria-hidden
+              className="pointer-events-none absolute inset-x-0 top-0 h-[28%] bg-gradient-to-b from-black via-black/55 to-transparent"
+            />
+          ) : null}
         </div>
       ) : (
         <div className="flex aspect-video w-full items-center justify-center border-t border-line bg-[linear-gradient(135deg,#111_0%,#2a2a2a_100%)] md:border-t-0 md:border-l">

@@ -12,6 +12,8 @@ export interface CaseStudy {
   heroImage?: string;
   /** External URL opened in a new tab from the card */
   href?: string;
+  /** Soft black fade at the top of the hero image */
+  heroTopFade?: boolean;
 }
 
 /**
@@ -45,6 +47,7 @@ export const publicCases: CaseStudy[] = [
     contentKey: "case03",
     heroImage: "/cases/case_03.png",
     href: "https://www.wanin.tw/NewsPages/20210922162452938/",
+    heroTopFade: true,
   },
 ];
 
