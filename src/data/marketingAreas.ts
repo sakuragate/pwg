@@ -24,14 +24,11 @@ export const marketingAreas = [
 export const mediaSolutions = [
   "transit",
   "ooh",
-  "vision",
-  "station",
   "event",
-  "popup",
   "pr",
   "influencer",
   "store",
-  "movie",
+  "sns",
 ] as const;
 
 export const resultMetrics = [

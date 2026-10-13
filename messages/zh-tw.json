@@ -95,14 +95,11 @@
       "items": {
         "transit": "交通廣告",
         "ooh": "OOH / DOOH",
-        "vision": "大型視覺",
-        "station": "車站廣告",
         "event": "活動",
-        "popup": "快閃",
         "pr": "公關",
         "influencer": "網紅",
         "store": "通路聯名",
-        "movie": "電影與娛樂聯動"
+        "sns": "SNS行銷"
       }
     }
   },
@@ -269,14 +266,11 @@
     "media": {
       "transit": "交通廣告",
       "ooh": "OOH / DOOH",
-      "vision": "大型視覺",
-      "station": "車站廣告",
       "event": "活動",
-      "popup": "快閃",
       "pr": "公關 / 媒體",
       "influencer": "網紅",
       "store": "通路聯名",
-      "movie": "電影聯名"
+      "sns": "SNS行銷"
     },
     "roleLabel": "ONLINE / OFFLINE ROLE",
     "roleClient": "CLIENT",

@@ -15,14 +15,11 @@ const itemKeys: Record<ServiceId, string[]> = {
   marketing: [
     "transit",
     "ooh",
-    "vision",
-    "station",
     "event",
-    "popup",
     "pr",
     "influencer",
     "store",
-    "movie",
+    "sns",
   ],
 };
 

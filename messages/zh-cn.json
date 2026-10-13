@@ -95,14 +95,11 @@
       "items": {
         "transit": "交通广告",
         "ooh": "OOH / DOOH",
-        "vision": "大型视觉",
-        "station": "车站广告",
         "event": "活动",
-        "popup": "快闪",
         "pr": "公关",
         "influencer": "达人",
         "store": "门店联动",
-        "movie": "电影与娱乐联动"
+        "sns": "SNS营销"
       }
     }
   },
@@ -269,14 +266,11 @@
     "media": {
       "transit": "交通广告",
       "ooh": "OOH / DOOH",
-      "vision": "大型视觉",
-      "station": "车站广告",
       "event": "活动",
-      "popup": "快闪",
       "pr": "公关 / 媒体",
       "influencer": "达人",
       "store": "门店联动",
-      "movie": "电影联动"
+      "sns": "SNS营销"
     },
     "roleLabel": "ONLINE / OFFLINE ROLE",
     "roleClient": "CLIENT",

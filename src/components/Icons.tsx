@@ -59,14 +59,11 @@ export function IconHandshake(props: IconProps) {
 const mediaPaths: Record<string, string> = {
   transit: "M8 16h32v12H8zM14 28v6M34 28v6M8 22h32",
   ooh: "M10 12h28v18H10zM16 30v6h16v-6",
-  vision: "M8 10h32v20H8zM18 30h12M24 30v6",
-  station: "M12 36V14h24v22M12 20h24M20 26v10M28 26v10",
   event: "M10 16h28v20H10zM10 22h28M18 12v8M30 12v8",
-  popup: "M14 14h20v20H14zM14 20h20M20 28h8",
   pr: "M12 16h16v12H12zM28 20l8-4v16l-8-4",
   influencer: "M24 14a6 6 0 1 1 0 12 6 6 0 0 1 0-12zM12 36a12 12 0 0 1 24 0",
   store: "M10 18l4-6h20l4 6v18H10zM18 36V24h12v12",
-  movie: "M8 14h32v20H8zM16 14v20M32 14v20M8 20h8M8 28h8M32 20h8M32 28h8",
+  sns: "M12 18a6 6 0 1 1 12 0v6H12v-6M18 12V8M8 28h12v8H8zM28 28h12v8H28zM32 24v4",
 };
 
 export function IconMedia({

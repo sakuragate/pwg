@@ -95,14 +95,11 @@
       "items": {
         "transit": "交通広告",
         "ooh": "OOH / DOOH",
-        "vision": "大型ビジョン",
-        "station": "駅広告",
         "event": "イベント",
-        "popup": "ポップアップ",
         "pr": "PR",
         "influencer": "インフルエンサー",
         "store": "店舗コラボレーション",
-        "movie": "映画・エンターテインメント連動"
+        "sns": "SNSマーケティング"
       }
     }
   },
@@ -269,14 +266,11 @@
     "media": {
       "transit": "交通広告",
       "ooh": "OOH / DOOH",
-      "vision": "大型ビジョン",
-      "station": "駅広告",
       "event": "イベント",
-      "popup": "ポップアップ",
       "pr": "PR / メディア",
       "influencer": "インフルエンサー",
       "store": "店舗コラボ",
-      "movie": "映画・タイアップ"
+      "sns": "SNSマーケティング"
     },
     "roleLabel": "ONLINE / OFFLINE ROLE",
     "roleClient": "CLIENT",

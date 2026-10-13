@@ -95,14 +95,11 @@
       "items": {
         "transit": "Transit advertising",
         "ooh": "OOH / DOOH",
-        "vision": "Large-format vision",
-        "station": "Station advertising",
         "event": "Events",
-        "popup": "Pop-ups",
         "pr": "PR",
         "influencer": "Influencers",
         "store": "Retail collaborations",
-        "movie": "Film and entertainment tie-ins"
+        "sns": "SNS marketing"
       }
     }
   },
@@ -269,14 +266,11 @@
     "media": {
       "transit": "Transit ads",
       "ooh": "OOH / DOOH",
-      "vision": "Large-format vision",
-      "station": "Station ads",
       "event": "Events",
-      "popup": "Pop-ups",
       "pr": "PR / Media",
       "influencer": "Influencers",
       "store": "Retail collabs",
-      "movie": "Film tie-ins"
+      "sns": "SNS marketing"
     },
     "roleLabel": "ONLINE / OFFLINE ROLE",
     "roleClient": "CLIENT",
